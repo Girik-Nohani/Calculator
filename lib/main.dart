@@ -161,6 +161,14 @@ class _MyHomePageState extends State<MyHomePage> {
                 custombutton("x"),
               ],
             ),
+            Row(
+              children: <Widget>[
+                custombutton("C"),
+                custombutton("0"),
+                custombutton("="),
+                custombutton("/"),
+              ],
+            ),
           ],
         ),
       ),
