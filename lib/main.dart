@@ -137,38 +137,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ),
             ),
-            Row(
-              children: <Widget>[
-                custombutton("9"),
-                custombutton("8"),
-                custombutton("7"),
-                custombutton("+"),
-              ],
-            ),
-            Row(
-              children: <Widget>[
-                custombutton("6"),
-                custombutton("5"),
-                custombutton("4"),
-                custombutton("-"),
-              ],
-            ),
-            Row(
-              children: <Widget>[
-                custombutton("3"),
-                custombutton("2"),
-                custombutton("1"),
-                custombutton("x"),
-              ],
-            ),
-            Row(
-              children: <Widget>[
-                custombutton("C"),
-                custombutton("0"),
-                custombutton("="),
-                custombutton("/"),
-              ],
-            ),
           ],
         ),
       ),
